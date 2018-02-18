@@ -1,7 +1,6 @@
 <?php
 echo "head call php";
 
-
 ?>
 <!DOCTYPE html>
 <html lang="ja">
